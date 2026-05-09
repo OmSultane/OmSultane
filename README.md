@@ -1,9 +1,32 @@
 ## Hi there 👋
 
+I'm Om Sultane, a passionate developer who enjoys building practical and user-friendly web applications.
 
-- 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning Backend development
-- 📫 How to reach me: email-sultaneom256@gmail.com
+- 💻 Currently working on Web Development projects
+- 🌱 Actively learning Backend Development and improving my problem-solving skills
+- 🎯 Interested in building real-world applications that solve everyday problems
+- 📚 Exploring Data Structures & Algorithms (DSA) alongside backend development
+
+📬 Contact Me
+- 📧 Email: sultaneom256@gmail.com
+
+🛠️ Tech Stack
+
+- Frontend: HTML5, CSS3, JavaScript, Bootstrap
+- Backend (Learning): Java, Node.js (Basics)
+- Programming Languages: C, C++, Java
+- Database: MySQL
+- Tools & Technologies: Apache, Nginx, Socket.io, Git & GitHub
+
+📌 Goals
+
+- Become a skilled Java Backend Developer
+- Build scalable and efficient web applications
+- Contribute to open-source projects
+
+⚡ Fun Fact
+
+I enjoy turning ideas into real applications and continuously learning new technologies to improve my development skills.
 
 
 
