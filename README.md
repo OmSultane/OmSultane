@@ -10,14 +10,6 @@ I'm Om Sultane, a passionate developer who enjoys building practical and user-fr
 📬 Contact Me
 - 📧 Email: sultaneom256@gmail.com
 
-🛠️ Tech Stack
-
-- Frontend: HTML5, CSS3, JavaScript, Bootstrap
-- Backend (Learning): Java, Node.js (Basics)
-- Programming Languages: C, C++, Java
-- Database: MySQL
-- Tools & Technologies: Apache, Nginx, Socket.io, Git & GitHub
-
 📌 Goals
 
 - Become a skilled Java Backend Developer
