@@ -11,13 +11,11 @@ I'm Om Sultane, a passionate developer who enjoys building practical and user-fr
 - 📧 Email: sultaneom256@gmail.com
 
 📌 Goals
-
 - Become a skilled Java Backend Developer
 - Build scalable and efficient web applications
 - Contribute to open-source projects
 
 ⚡ Fun Fact
-
 I enjoy turning ideas into real applications and continuously learning new technologies to improve my development skills.
 
 
